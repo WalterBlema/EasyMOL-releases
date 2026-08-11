@@ -44,8 +44,7 @@ mostra tudo em 3D e gera diagramas, métricas e relatórios prontos para publica
 2. Execute e siga o assistente (não exige administrador).
 3. Abra pelo atalho criado.
 
-Requisitos: **Windows 10 ou 11 (64 bits)**. Não precisa instalar Python nem
-PyMOL — está tudo incluído. O app avisa sozinho quando houver versão nova.
+Requisitos: **Windows 10 ou 11 (64 bits)**. Não precisa instalar o Python. O app avisa sozinho quando houver versão nova.
 
 > Na primeira execução o Windows pode mostrar "Editor desconhecido" (o
 > instalador ainda não é assinado). Clique em **Mais informações → Executar
